@@ -1,4 +1,4 @@
-package nl.kiipdevelopment.pencil.utils;
+package nl.kiipdevelopment.simplestore.utils;
 
 public final class MathUtils {
 	public static double round(double value, int places) {
